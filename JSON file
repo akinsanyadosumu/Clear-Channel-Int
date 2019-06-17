@@ -1,0 +1,22 @@
+JSON file
+
+
+{
+
+"cars": { 
+
+"make": "BMW",
+
+"model": "318",
+
+"color": "White",
+
+"bodyType": "Saloon",
+
+"Transmission": "Manual",
+
+"Engine": "1.8" 
+
+}
+
+}
